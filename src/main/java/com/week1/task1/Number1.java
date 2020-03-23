@@ -1,4 +1,4 @@
-package task1;
+package com.week1.task1;
 
 public class Number1 implements Number {
     private Double value;

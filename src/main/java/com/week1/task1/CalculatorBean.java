@@ -1,4 +1,4 @@
-package task1;
+package com.week1.task1;
 
 import org.springframework.context.annotation.Bean;
 

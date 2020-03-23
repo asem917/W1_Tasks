@@ -1,4 +1,4 @@
-package task1;
+package com.week1.task1;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -11,7 +11,8 @@ public class Main {
         Number number2= (Number) ac.getBean("number2");
         number1.setValue(2);
         number2.setValue(5);
-        System.out.println( calculator.subtract());
+        System.out.println( calculator.multiply());
+
 
 
 }}
